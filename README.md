@@ -29,10 +29,24 @@ Respuesta.
 5. [Herramientas de Google:](https://about.google/products/ "enlace a las herramientas de google")
 
 |Aplicaciones|Visto|
-|-----------|-----|
+|-----------|----|
 |Google Docs|✔️|
 |Google Slides|✔️|
 |Google Sheets|✔️|
 |Google Calendar|📅|
 |Google Meet|💻|
 
+
+¿Qué es HTML ?
+
+Respuesta.
+
+
+
+
+¿Qué es CSS?
+
+Respuesta.
+
+
+Flujo de trabajo (navegador, petición, servidor y respuesta):
