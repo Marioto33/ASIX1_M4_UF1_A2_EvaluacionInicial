@@ -35,13 +35,14 @@ Respuesta.
 |Google Sheets|✔️|
 |Google Calendar|📅|
 |Google Meet|💻|
+|...|...|
 
 
 ¿Qué es HTML ?
 
 Respuesta.
 
-
+https://github.com/Marioto33/ASIX1_M4_UF1_A2_EvaluacionInicial/blob/main/imagen%201.png
 
 
 ¿Qué es CSS?
@@ -50,3 +51,4 @@ Respuesta.
 
 
 Flujo de trabajo (navegador, petición, servidor y respuesta):
+[](https://github.com/Marioto33/ASIX1_M4_UF1_A2_EvaluacionInicial/blob/main/imagen%202.png)
