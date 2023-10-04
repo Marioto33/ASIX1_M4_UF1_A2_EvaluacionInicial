@@ -38,7 +38,7 @@ Respuesta.
 |...|...|
 
 
-¿Qué es HTML ?
+6. ¿Qué es HTML ?
 
 
 Respuesta.
@@ -46,7 +46,7 @@ Respuesta.
 ![Imagen1](https://github.com/Marioto33/ASIX1_M4_UF1_A2_EvaluacionInicial/blob/main/imagen%201.png)
 
 
-¿Qué es CSS?
+7. ¿Qué es CSS?
 
 
 Respuesta.
