@@ -28,7 +28,7 @@ Respuesta.
 
 5. [Herramientas de Google:](https://about.google/products/ "enlace a las herramientas de google")
 
-|Aplicaciones|Visto|
+|:Aplicaciones|Visto|
 |-----------|----|
 |Google Docs|✔️|
 |Google Slides|✔️|
